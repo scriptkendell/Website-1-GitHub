@@ -2,5 +2,5 @@
 
 This page links to two different HTML pages:
 
-* [Page 1](page1/)
-* [Page 2](page2/)
+* [Page 1](Test2/)
+* [Page 2](Test3/)
