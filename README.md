@@ -1,4 +1,4 @@
-# Research Lab Report 
+# Kendell Research Lab Report 
 
 This page links to two different HTML pages both on my research:
 
